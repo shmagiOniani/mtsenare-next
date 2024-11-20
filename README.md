@@ -1,6 +1,6 @@
-# 🌸 Flower Haven
+# 🌸 Yvavila
 
-Flower Haven is a modern, responsive web application designed for selling beautiful flowers online. The platform provides a seamless user experience for browsing flower collections, placing orders, and managing purchases.
+Yvavila is a modern, responsive web application designed for selling beautiful flowers online. The platform provides a seamless user experience for browsing flower collections, placing orders, and managing purchases.
 
 ## Features
 - **Responsive Design**: Fully optimized for desktops, tablets, and mobile devices.
@@ -39,5 +39,5 @@ Follow these steps to set up the project locally:
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/flower-haven.git
-   cd flower-haven
+   git clone https://github.com/shmagiOniani/yvavila.git
+   cd yvavila
