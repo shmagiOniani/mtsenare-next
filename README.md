@@ -1,4 +1,4 @@
-# 🌸 Yvavila
+# Next-boilerplate
 
 Yvavila is a modern, responsive web application designed for selling beautiful flowers online. The platform provides a seamless user experience for browsing flower collections, placing orders, and managing purchases.
 
